@@ -1,0 +1,13 @@
+{
+    "name": "andywendt/local-composer-dev-helper",
+    "description": "A tool to help with multi-package, local composer development",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Wendt",
+            "email": "andy@awendt.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
